@@ -1,0 +1,58 @@
+h1 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.review {
+	margin-top: 50px;
+	border: 1px solid #ccc;
+	padding: 20px;
+}
+
+.rating {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.star {
+	color: orange;
+}
+
+.categ {
+    margin-left: 100px;
+    margin-top: 20px;
+    color: #1E1E1E 100%;
+    font-family: Montserrat-Regular;
+    font-size: 20px;
+    display: inline-block;
+    font-weight: 300;
+}
+
+.categ:hover {
+    color: grey;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+  }
+  
+  .subscribe {
+    background-color: #f8edc6;
+    padding: 10px;
+  }
+  
+  .subscribe input[type="email"] {
+    width: 200px;
+    padding: 5px;
+  }
+  
+  .subscribe button {
+    background-color: #fff;
+    border: none;
+    padding: 5px 10px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+  }
